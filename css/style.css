@@ -1,0 +1,31 @@
+.navbar {
+    background-color: antiquewhite;
+}
+
+.is-primary {
+    background-color: #008190 !important;
+}
+.hero-body {
+    background-image: url(../img/5ab25b3d1f0000180316b086-3992803375);
+    background-position: center !important;
+    background-size: cover !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+.title, .subtitle {
+    background-color: antiquewhite;
+    color: black !important;
+    padding: 15px;
+    width: 500px;
+    text-align: center;
+}
+.title {
+    margin-bottom: 13px !important;
+    box-shadow: 7px 0px black;
+}
+.subtitle {
+
+    box-shadow: 7px 6px black;
+    padding-top: 0px;
+}
